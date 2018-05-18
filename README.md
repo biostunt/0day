@@ -1,8 +1,8 @@
 # 0day
 
-This repository was created special for storage laba and works from institute
+This repository was created as a storage for laboratory works from institute
 
-If you find Errors in projects or in structure - contact developers
+If you`ll find some flaws or mistakes in projects or in structure of repository - contact developers
     
     
     
@@ -19,5 +19,5 @@ If you find Errors in projects or in structure - contact developers
     
     
     
-    t.me/biostunt 		vk.com/folt_must_die
-    vk.com/biokita 
+    t.me/biostunt
+    vk.com/biokita              vk.com/folt_must_die
