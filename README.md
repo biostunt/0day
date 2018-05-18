@@ -2,17 +2,17 @@
 
 
 
-Structure:
+Structure:\n
 
-Java
---Labs
-----BinaryTreeSearch
-------main.java
-------Stack.java
-----README.md
---Templates
---Useful
---README.md
-C++
-Python
+Java\n
+--Labs\n
+----BinaryTreeSearch\n
+------main.java\n
+------Stack.java\n
+----README.md\n
+--Templates\n
+--Useful\n
+--README.md\n
+C++\n
+Python\n
 
