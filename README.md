@@ -19,5 +19,5 @@ If you find Errors in projects or in structure - contact developers
     
     
     
-    t.me/biostunt 
+    t.me/biostunt 		vk.com/folt_must_die
     vk.com/biokita 
