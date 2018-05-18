@@ -19,5 +19,5 @@ If you`ll find some flaws or mistakes in projects or in structure of repository 
     
     
     
-    t.me/biostunt
+    t.me/biostunt               t.me/folt69
     vk.com/biokita              vk.com/folt_must_die
